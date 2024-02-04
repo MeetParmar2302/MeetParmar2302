@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Meet Parmar
-- 🌱 I’m currently learning Data Structures And Algorithms
+- 👋 Hi! I'm Meet Parmar
+- 📙 I'm currently pursuing BTech CSE
+- 🎓 IIIT SURAT
+- 🌱 I'm currently learning Data Structures And Algorithms
 
 
 <!---
